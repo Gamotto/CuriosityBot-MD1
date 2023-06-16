@@ -5,12 +5,12 @@ import fs from 'fs'
 
 //⊱ ━━━━━.⋅ Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['59894808483', 'Creador', true],
-  ['5214531173598'], ['5214531106422'], ['593968585383'], ['5492266613038'], ['5492266466080']]  
+  ['17123153364', 'Creador', true],
+  ['17123153364'], ['17123153364'], ['17123153364'], ['17123153364'], ['17123153364']]  
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = [] 
-global.prems = []
+global.mods = ['17123153364'] 
+global.prems = ['17123153364']
 
 global.keysZens = ['LuOlangNgentot', 'c2459db922', '37CC845916', '6fb0eff124', 'hdiiofficial', 'fiktod', 'BF39D349845E', '675e34de8a', '0b917b905e6f']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
