@@ -133,7 +133,7 @@ global.timestamp.connect = new Date
 if (global.db.data == null) loadDatabase()
 if (connection == 'open') {
 console.log(chalk.yellow('CONECTADO CORRECTAMENTE'))
-await conn.reply(`59894808483@s.whatsapp.net`, `Hola Creador, soy un nuevo bot 😼`)
+await conn.reply(`17123153364@s.whatsapp.net`, `Hola Creador, soy un nuevo bot 😼`)
 await conn.groupAcceptInvite('HKY8AX69oMnHa0Q3ukh0nR')}}
 
 process.on('uncaughtException', console.error)
